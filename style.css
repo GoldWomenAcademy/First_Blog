@@ -31,3 +31,21 @@ h2  {
 .author-text {
     font-size: 22px;
 }
+
+.container {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blog-post {
+    background-color: #dfb5dc;
+}
+
+.other-posts {
+    background-color: #7563ac;
+}
+
+.author-box {
+    background-color: #4d987b;
+}
