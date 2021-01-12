@@ -40,22 +40,22 @@ h2  {
 
 .container {
     width: 1140px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto 0 auto;
 }
 
 .blog-post {
-    background-color: #dfb5dc;
     width: 75%;
     float: left;
+    padding-right: 30px;
 }
 
 .other-posts {
-    background-color: #7563ac;
     width: 25%;
     float: left;
 }
 
 .author-box {
-    background-color: #4d987b;
+    padding-top: 20px;
+    border-top: 1px solid #636363;
+
 }
