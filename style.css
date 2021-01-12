@@ -1,0 +1,24 @@
+body {
+    font-family: Helvetica, Arial;
+    font-size: 18px;
+}
+
+h1, h2 {
+    color: #b33d99; 
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2  {
+    font-size: 25px; 
+}
+
+.first {
+    text-align: justify;
+}
+
+.author-text {
+    font-size: 22px;
+}
